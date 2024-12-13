@@ -176,10 +176,6 @@ ol {
   outline-offset: 1px;
 }
 
-.page {
-  display: flex;
-}
-
 .content {
   display: grid;
   grid-template-columns: 711px 399px;
